@@ -70,28 +70,6 @@ allinputwidets
 └── screenshots
     └── app.png
 ```
-
----
-
-## Screenshot
-
-> Save your application screenshot inside the `screenshots` folder as **app.png**.
-
-```text
-screenshots/
-    app.png
-```
-
-GitHub will automatically display it.
-
-Example:
-
-```md
-![Application Screenshot](screenshots/app.png)
-```
-
----
-
 ## How to Run
 
 1. Clone the repository
